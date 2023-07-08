@@ -1,1 +1,1 @@
-# Handwritten_ALphabet_Classification
+# Handwritten_Alphabet_Classification
